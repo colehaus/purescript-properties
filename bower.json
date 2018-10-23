@@ -1,9 +1,9 @@
 {
-  "name": "purescript-properties",
+  "name": "colehaus-purescript-properties",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Risto-Stevcev/purescript-properties.git"
+    "url": "git://github.com/colehaus/purescript-properties.git"
   },
   "ignore": [
     "**/.*",
